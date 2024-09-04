@@ -1,0 +1,22 @@
+{
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "The school does not have data on the matter.",
+                "role": "assistant"
+            }
+        }
+    ],
+    "created": 1724425160,
+    "id": "chatcmpl-9zQ2yJLbpMih8nsz2uKkBdZloRBOZ",
+    "model": "gpt-4o-2024-05-13",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_abc28019ad",
+    "usage": {
+        "completion_tokens": 10,
+        "prompt_tokens": 202,
+        "total_tokens": 212
+    }
+}
